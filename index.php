@@ -40,6 +40,10 @@
         $a || $b; //OR
         !$a; //NOT
         ?>
-
+        <?php
+        define("Site_Name", "Belajar PHP");
+        const version = "1.0.0";
+        echo Site_Name; //output: Belajar PHP
+        ?>
 </body>
 </html>
