@@ -41,6 +41,7 @@
         !$a; //NOT
         ?>
         <?php
+        //konstanta
         define("Site_Name", "Belajar PHP");
         const version = "1.0.0";
         echo Site_Name; //output: Belajar PHP
