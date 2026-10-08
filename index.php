@@ -35,7 +35,11 @@
        $a <= $b; //lebih kecil atau sama dengan
        $a >= $b; //lebih besar atau sama dengan
 
-       
+       //logika
+        $a && $b; //AND
+        $a || $b; //OR
+        !$a; //NOT
         ?>
+
 </body>
 </html>
